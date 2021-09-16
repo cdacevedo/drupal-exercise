@@ -1,0 +1,3 @@
+[submodule "themes/custom/front"]
+	path = themes/custom/front
+	url = https://gitlab.com/felipecastillo/frontend-template
